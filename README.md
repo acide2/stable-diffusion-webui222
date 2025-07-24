@@ -169,6 +169,24 @@ The documentation was moved from this README over to the project's [wiki](https:
 
 For the purposes of getting Google and other search engines to crawl the wiki, here's a link to the (not for humans) [crawlable wiki](https://github-wiki-see.page/m/AUTOMATIC1111/stable-diffusion-webui/wiki).
 
+### 📸 Photorealistic Prompt Optimization Guide
+
+For advanced users seeking to create professional-quality photorealistic images, we provide a comprehensive optimization guide:
+
+- **[Complete Prompt Optimization Documentation](docs/prompt-optimization/index.md)** - Navigate to specialized guides
+- **[Main Optimization Guide](docs/prompt-optimization/README.md)** - Comprehensive technical analysis and best practices  
+- **[Technical Analysis](docs/prompt-optimization/technical-analysis.md)** - Scientific evaluation of prompt effectiveness
+- **[Practical Examples](docs/prompt-optimization/practical-examples.md)** - Ready-to-use optimized configurations
+- **[Ethical Guidelines](docs/prompt-optimization/ethical-guidelines.md)** - Responsible AI usage framework
+- **[Technology Roadmap](docs/prompt-optimization/technological-prospective.md)** - Future developments 2024-2025
+
+This documentation provides:
+- ⚙️ **Optimized technical parameters** (CFG, steps, samplers)
+- 🎨 **Professional prompt structures** with scientific validation
+- 📊 **Comparative benchmarking** of models and techniques
+- ⚖️ **Ethical guidelines** for responsible AI image generation
+- 🚀 **Future-ready strategies** for emerging technologies
+
 ## Credits
 Licenses for borrowed code can be found in `Settings -> Licenses` screen, and also in `html/licenses.html` file.
 
